@@ -1,0 +1,8 @@
+Tarea 2 Programación
+-	Una vez iniciado el proceso de ejecución del programa este desplegará un menú en el cual se podrá ver 6 opciones
+-	En la primera opción al poner el numero 1 y darle enter este estará dando la opción para que se escriba cualquier numero que sea desee el cual al ejecutarlo dependiendo del número que se eligió dará su número convertido en binario
+-	La segunda opción si la eliges desplegara un apartado en el cual igualmente podrás elegir el numero que desees y lo pondrás, pero este mediante una condición contara cuantos dígitos tiene tu número ya sea 1,2,3…. Etc.
+-	La tercera opción te permite sacar la raíz cuadrada del numero a tu elección
+-	La cuarta opción es para convertir números romanos a decimales por lo que usa condiciones que dicen que si el primer numero es menor al que le sigue el menor le reste al mayor y que salte 2 casillas para seguir con los demás números, ahora cuando el número es mayor al que le sigue esos 2 números se sumen.
+-	La quinta es para poder sumar números enteros el cual usa 2 condiciones que dicen que si el numero es igual o menor a 0 de 0 de lo contrario el numero sume todos los números anteriores al que se Eligio.
+-	Y por último la opción de salir del menú que termina todo el programa
